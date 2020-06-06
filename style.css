@@ -1,0 +1,78 @@
+.android
+{
+padding-right:50px;
+height: 300px;
+width: 500px;
+padding-bottom: 50px;
+}
+
+
+.ios
+{
+
+padding-right: 50px;
+height: 300px;
+width: 500px;
+padding-bottom: 50px;
+
+}
+
+
+.java
+{
+height: 300px;
+width: 500px;
+padding-right: 70px;
+padding-bottom: 50px;
+
+}
+
+#middle
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+
+#bottom
+{
+    background-color:#222831 ;
+}
+
+.h3
+{
+color: white;
+padding-top: 50px;
+font-size: 20px;
+}
+
+.ul
+{
+    color: #4cd3c2;
+}
+
+.img
+{
+    height: 30px;
+    width: 30px;
+
+}
+
+.h31
+{
+    padding-left: 50px; 
+    padding-top: 50px;
+    color: #1b6ca8;
+    font-size: 20px;
+}
+
+
+.button
+{
+    background-color: #0779e4;
+    margin-left: 100px;
+    color: white;
+    border: none;
+    block-size: 50px;
+    min-inline-size: 100px;
+}
